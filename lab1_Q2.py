@@ -25,7 +25,7 @@ print ( f" { ' Breakfast ':^30}{ ' Lunch ':^27}{ ' Beverages ':^35} " )
 print("1.Burgers----------$7.99 2.Wraps------------$9.59 3.Green Tea--------$1.49")
 
 for i in range(4):
-    print(f" { f'{names[0][i]}: ${prices[0][i]}':<30}{ f'{names[1][i]}: ${prices[0][i]}':<27}{ f'{names[2][i]}: ${prices[0][i]}':<35} ")
+    # print(f" { f'{names[0][i]}: ${prices[0][i]}':<30}{ f'{names[1][i]}: ${prices[0][i]}':<27}{ f'{names[2][i]}: ${prices[0][i]}':<35} ")
 
 
 
